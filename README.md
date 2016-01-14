@@ -1,4 +1,4 @@
-Anika Benons <abenonst@stanford.edu>
+Anika Benons <abenons@stanford.edu>
 Mind Game: The Cosmic Number - This app demonstrates the Cosmic Number Mind Game.
 It prompts the user to enter a number that will eventually always lead back to the number
 4 in some way. If the user can't figure it out, they may have a hint or just get the answer.
